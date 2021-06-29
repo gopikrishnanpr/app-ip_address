@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/gopikrishnanpr/app-ip_address#readme",
   "dependencies": {
-    "ip-cidr": "^3.0.3"
+    "ip-cidr": "^2.1.5"
   },
   "devDependencies": {}
 }
